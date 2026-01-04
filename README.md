@@ -128,7 +128,7 @@
 <tr>
 <td width="100%" style="background-color:#9370db; padding:20px; border-radius:10px; border-left:5px solid #7b68ee;">
 <p style="color:white; font-size:16px;">✉️ <b>Email:</b> khosa9720@gmail.com</p>
-<p style="color:white; font-size:16px;">💼 <b>LinkedIn:</b> <a href="YOUR_LINKEDIN_LINK_HERE" style="color:#ffcc00; text-decoration:none;">linkedin.com/in/ridamaryam</a></p>
+<p style="color:white; font-size:16px;">💼 <b>LinkedIn:</b> <a href="YOUR_LINKEDIN_LINK_HERE" style="color:#ffcc00; text-decoration:none;">https://www.linkedin.com/in/rida-maryam-371314365/</a></p>
 </td>
 </tr>
 </table>
