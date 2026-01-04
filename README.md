@@ -174,59 +174,59 @@
 
 <div style="display: flex; flex-wrap: nowrap; gap: 20px; padding: 10px; min-width: max-content;">
 
-<div style="background: linear-gradient(135deg, #FF6B8B 0%, #FF8E53 100%); min-width: 250px; padding: 20px; border-radius: 12px; border-left: 5px solid #FF1493; box-shadow: 0 5px 15px rgba(255,107,139,0.3);">
-<div style="text-align: center; margin-bottom: 15px;">
-<div style="font-size: 40px; margin-bottom: 10px;">📱</div>
-<h4 style="color: white; margin: 10px 0; font-size: 18px;">Mobile Development</h4>
+<div style="background: linear-gradient(135deg, #FF6B8B 0%, #FF8E53 100%); min-width: 280px; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(255,107,139,0.3);">
+<div style="text-align: center;">
+<div style="font-size: 40px; margin-bottom: 15px;">📱</div>
+<h4 style="color: white; margin: 0 0 15px 0; font-size: 22px; font-weight: bold;">Mobile Development</h4>
 </div>
-<p style="color: white; font-size: 14px; margin: 0; text-align: center; line-height: 1.6;">
-Flutter & Dart<br>
-Building Real Projects<br>
-Firebase Integration
-</p>
+<div style="background: rgba(255,255,255,0.15); padding: 15px; border-radius: 10px;">
+<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Flutter & Dart</p>
+<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Building Real Projects</p>
+<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Firebase Integration</p>
 </div>
-
-<div style="background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%); min-width: 250px; padding: 20px; border-radius: 12px; border-left: 5px solid #1E90FF; box-shadow: 0 5px 15px rgba(71,118,230,0.3);">
-<div style="text-align: center; margin-bottom: 15px;">
-<div style="font-size: 40px; margin-bottom: 10px;">🌐</div>
-<h4 style="color: white; margin: 10px 0; font-size: 18px;">Web Development</h4>
-</div>
-<p style="color: white; font-size: 14px; margin: 0; text-align: center; line-height: 1.6;">
-Frontend Focus<br>
-WordPress<br>
-Backend Planning
-</p>
 </div>
 
-<div style="background: linear-gradient(135deg, #00B09B 0%, #96C93D 100%); min-width: 250px; padding: 20px; border-radius: 12px; border-left: 5px solid #32CD32; box-shadow: 0 5px 15px rgba(0,176,155,0.3);">
-<div style="text-align: center; margin-bottom: 15px;">
-<div style="font-size: 40px; margin-bottom: 10px;">🎨</div>
-<h4 style="color: white; margin: 10px 0; font-size: 18px;">Design & Marketing</h4>
+<div style="background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%); min-width: 280px; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(71,118,230,0.3);">
+<div style="text-align: center;">
+<div style="font-size: 40px; margin-bottom: 15px;">🌐</div>
+<h4 style="color: white; margin: 0 0 15px 0; font-size: 22px; font-weight: bold;">Web Development</h4>
 </div>
-<p style="color: white; font-size: 14px; margin: 0; text-align: center; line-height: 1.6;">
-Canva • Figma • Illustrator<br>
-UI/UX Principles<br>
-Digital Marketing
-</p>
+<div style="background: rgba(255,255,255,0.15); padding: 15px; border-radius: 10px;">
+<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Frontend Focus</p>
+<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">WordPress</p>
+<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Backend Planning</p>
 </div>
-
-<div style="background: linear-gradient(135deg, #8A2387 0%, #F27121 100%); min-width: 250px; padding: 20px; border-radius: 12px; border-left: 5px solid #FF8C00; box-shadow: 0 5px 15px rgba(138,35,135,0.3);">
-<div style="text-align: center; margin-bottom: 15px;">
-<div style="font-size: 40px; margin-bottom: 10px;">🤖</div>
-<h4 style="color: white; margin: 10px 0; font-size: 18px;">Data Science</h4>
-</div>
-<p style="color: white; font-size: 14px; margin: 0; text-align: center; line-height: 1.6;">
-ML Concepts<br>
-Real-world Applications<br>
-Learning Path
-</p>
 </div>
 
+<div style="background: linear-gradient(135deg, #00B09B 0%, #96C93D 100%); min-width: 280px; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,176,155,0.3);">
+<div style="text-align: center;">
+<div style="font-size: 40px; margin-bottom: 15px;">🎨</div>
+<h4 style="color: white; margin: 0 0 15px 0; font-size: 22px; font-weight: bold;">Design & Marketing</h4>
+</div>
+<div style="background: rgba(255,255,255,0.15); padding: 15px; border-radius: 10px;">
+<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Canva • Figma • Illustrator</p>
+<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">UI/UX Principles</p>
+<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Digital Marketing</p>
+</div>
+</div>
+
+<div style="background: linear-gradient(135deg, #8A2387 0%, #F27121 100%); min-width: 280px; padding: 25px; border-radius: 15px; box-shadow: 0 5px 15px rgba(138,35,135,0.3);">
+<div style="text-align: center;">
+<div style="font-size: 40px; margin-bottom: 15px;">🤖</div>
+<h4 style="color: white; margin: 0 0 15px 0; font-size: 22px; font-weight: bold;">Data Science</h4>
+</div>
+<div style="background: rgba(255,255,255,0.15); padding: 15px; border-radius: 10px;">
+<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">ML Concepts</p>
+<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Real-world Applications</p>
+<p style="color: white; font-size: 16px; margin: 8px 0; text-align: center;">Learning Path</p>
+</div>
 </div>
 
 </div>
 
-<p style="color: white; font-size: 18px; margin-top: 20px; font-style: italic;">
+</div>
+
+<p style="color: white; font-size: 18px; margin-top: 25px; font-style: italic;">
 ✨ From Learning to Building • From Concepts to Creation ✨
 </p>
 
