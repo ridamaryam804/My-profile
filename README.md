@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=ridamaryam804&label=Profile%20Views&color=ff1493&style=flat" alt="ridamaryam804" />
 </p>
 
-<div style="background: linear-gradient(135deg, #ff6b8b 0%, #ff8e53 100%); padding: 20px; border-radius: 15px; margin: 20px 0; border-left: 5px solid #ff1493; box-shadow: 0 5px 15px rgba(255,107,139,0.3);">
+<div style="background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%); padding: 20px; border-radius: 15px; margin: 20px 0; border-left: 5px solid #1e90ff; box-shadow: 0 5px 15px rgba(71,118,230,0.3);">
 
 ## <span style="color:white">📍 Currently Building</span>
 <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; margin-top: 10px;">
@@ -26,7 +26,7 @@
 
 </div>
 
-<div style="background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%); padding: 20px; border-radius: 15px; margin: 20px 0; border-left: 5px solid #1e90ff; box-shadow: 0 5px 15px rgba(71,118,230,0.3);">
+<div style="background: linear-gradient(135deg, #FF6B8B 0%, #FF8E53 100%); padding: 20px; border-radius: 15px; margin: 20px 0; border-left: 5px solid #ff1493; box-shadow: 0 5px 15px rgba(255,107,139,0.3);">
 
 ## <span style="color:white">🎓 My Learning Journey</span>
 <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; margin-top: 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
@@ -54,7 +54,7 @@
 </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #00b09b 0%, #96c93d 100%); padding: 20px; border-radius: 15px; margin: 20px 0; border-left: 5px solid #32cd32; box-shadow: 0 5px 15px rgba(0,176,155,0.3);">
+<div style="background: linear-gradient(135deg, #00B09B 0%, #96C93D 100%); padding: 20px; border-radius: 15px; margin: 20px 0; border-left: 5px solid #32cd32; box-shadow: 0 5px 15px rgba(0,176,155,0.3);">
 
 ## <span style="color:white">🤝 Collaboration Ready</span>
 <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; margin-top: 10px;">
