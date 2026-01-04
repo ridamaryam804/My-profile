@@ -4,116 +4,134 @@
 
 <div align="center">
   
-# <span style="color:#ff1493">✨ Hi, I'm Rida Maryam ✨</span>
-### <span style="color:#1e90ff">🚀 Aspiring Full-Stack Developer</span>
-### <span style="color:#32cd32">💻 Building with Passion & Purpose</span>
+# ✨ Hi, I'm Rida Maryam ✨
+### 🚀 Aspiring Full-Stack Developer
+### 💻 Building with Passion & Purpose
 
 </div>
 
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="border-radius: 15px;">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="border-radius: 15px;">
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ridamaryam804&label=Profile%20Views&color=ff1493&style=flat" alt="ridamaryam804" />
 </p>
 
+<br>
+
+---
+
 ## 📍 Currently Building
-<div style="background-color:#1e90ff; padding:20px; border-radius:10px; margin:20px 0; border-left:5px solid #0066cc;">
-<div style="background-color:rgba(255,255,255,0.1); padding:15px; border-radius:8px;">
-<p style="color:white; font-size:16px; margin:8px 0;">📱 <b>Farmer Advisory App</b> - A Flutter-based solution for agriculture community</p>
-<p style="color:white; font-size:14px; margin:5px 0;">• Real-time crop advisory • Weather integration • Market prices</p>
-</div>
-</div>
+
+<table>
+<tr>
+<td width="100%" style="background-color:#1e90ff; padding:20px; border-radius:10px; border-left:5px solid #0066cc;">
+<h3 style="color:white; margin-top:0;">📱 Farmer Advisory App</h3>
+<p style="color:white; font-size:16px;">A Flutter-based solution for agriculture community</p>
+<ul style="color:white; font-size:14px;">
+<li>Real-time crop advisory</li>
+<li>Weather integration</li>
+<li>Market prices</li>
+</ul>
+</td>
+</tr>
+</table>
+
+---
 
 ## 🎓 My Learning Journey
-<div style="background-color:#ff1493; padding:20px; border-radius:10px; margin:20px 0; border-left:5px solid #cc0066;">
-<div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
 
-<div style="background-color:rgba(255,255,255,0.15); padding:15px; border-radius:8px; width:250px;">
-<p style="color:white; font-size:16px; margin:5px 0;">📱 <b>Flutter & Dart</b></p>
-<p style="color:white; font-size:14px; margin:3px 0;"><b>(Intermediate Level - Building Projects)</b></p>
-</div>
+<table>
+<tr>
+<td width="25%" style="background-color:#ff1493; padding:15px; border-radius:10px; text-align:center;">
+<h4 style="color:white;">📱 Flutter & Dart</h4>
+<p style="color:white; font-size:14px;"><b>(Intermediate Level - Building Projects)</b></p>
+</td>
 
-<div style="background-color:rgba(255,255,255,0.15); padding:15px; border-radius:8px; width:250px;">
-<p style="color:white; font-size:16px; margin:5px 0;">🌐 <b>Web Development</b></p>
-<p style="color:white; font-size:14px; margin:3px 0;"><b>(Frontend Focus - WordPress)</b></p>
-</div>
+<td width="25%" style="background-color:#ff1493; padding:15px; border-radius:10px; text-align:center;">
+<h4 style="color:white;">🌐 Web Development</h4>
+<p style="color:white; font-size:14px;"><b>(Frontend Focus - WordPress)</b></p>
+</td>
 
-<div style="background-color:rgba(255,255,255,0.15); padding:15px; border-radius:8px; width:250px;">
-<p style="color:white; font-size:16px; margin:5px 0;">🎨 <b>UI/UX Design</b></p>
-<p style="color:white; font-size:14px; margin:3px 0;"><b>(Canva • Figma • Adobe Illustrator)</b></p>
-</div>
+<td width="25%" style="background-color:#ff1493; padding:15px; border-radius:10px; text-align:center;">
+<h4 style="color:white;">🎨 UI/UX Design</h4>
+<p style="color:white; font-size:14px;"><b>(Canva • Figma • Adobe Illustrator)</b></p>
+</td>
 
-<div style="background-color:rgba(255,255,255,0.15); padding:15px; border-radius:8px; width:250px;">
-<p style="color:white; font-size:16px; margin:5px 0;">🤖 <b>Data Science Concepts</b></p>
-<p style="color:white; font-size:14px; margin:3px 0;"><b>(Intermediate ML Concepts)</b></p>
-</div>
+<td width="25%" style="background-color:#ff1493; padding:15px; border-radius:10px; text-align:center;">
+<h4 style="color:white;">🤖 Data Science Concepts</h4>
+<p style="color:white; font-size:14px;"><b>(Intermediate ML Concepts)</b></p>
+</td>
+</tr>
+</table>
 
-</div>
-</div>
+---
 
 ## 🤝 Collaboration Ready
-<div style="background-color:#32cd32; padding:20px; border-radius:10px; margin:20px 0; border-left:5px solid #228b22;">
-<div style="background-color:rgba(255,255,255,0.1); padding:15px; border-radius:8px;">
-<p style="color:white; font-size:16px; margin:8px 0;">💡 <b>Looking For:</b> Open Source Projects • Tech for Social Good • Learning Partnerships</p>
-<p style="color:white; font-size:16px; margin:8px 0;">🎯 <b>My Role:</b> App Development • UI Design • Project Planning • Digital Marketing</p>
-</div>
-</div>
+
+<table>
+<tr>
+<td width="100%" style="background-color:#32cd32; padding:20px; border-radius:10px; border-left:5px solid #228b22;">
+<h3 style="color:white; margin-top:0;">💡 Looking For:</h3>
+<p style="color:white; font-size:16px;">Open Source Projects • Tech for Social Good • Learning Partnerships</p>
+<br>
+<h3 style="color:white;">🎯 My Role:</h3>
+<p style="color:white; font-size:16px;">App Development • UI Design • Project Planning • Digital Marketing</p>
+</td>
+</tr>
+</table>
+
+---
 
 ## 💬 Ask Me About
-<div style="background-color:#ff8c00; padding:20px; border-radius:10px; margin:20px 0; border-left:5px solid #cc7000;">
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:15px;">
 
-<div style="background-color:rgba(255,255,255,0.1); padding:15px; border-radius:8px;">
-<p style="color:white; font-size:16px; margin:0 0 5px 0;">📱 <b>App Development</b></p>
-<p style="color:white; font-size:14px; margin:0;">Flutter basics • UI building • State management</p>
-</div>
+<table>
+<tr>
+<td width="33%" style="background-color:#ff8c00; padding:15px; border-radius:10px; text-align:center;">
+<h4 style="color:white;">📱 App Development</h4>
+<p style="color:white; font-size:14px;">Flutter basics • UI building • State management</p>
+</td>
 
-<div style="background-color:rgba(255,255,255,0.1); padding:15px; border-radius:8px;">
-<p style="color:white; font-size:16px; margin:0 0 5px 0;">🌐 <b>Web Development</b></p>
-<p style="color:white; font-size:14px; margin:0;">Frontend concepts • WordPress • Responsive design</p>
-</div>
+<td width="33%" style="background-color:#ff8c00; padding:15px; border-radius:10px; text-align:center;">
+<h4 style="color:white;">🌐 Web Development</h4>
+<p style="color:white; font-size:14px;">Frontend concepts • WordPress • Responsive design</p>
+</td>
 
-<div style="background-color:rgba(255,255,255,0.1); padding:15px; border-radius:8px;">
-<p style="color:white; font-size:16px; margin:0 0 5px 0;">🎨 <b>Design Tools & Principles</b></p>
-<p style="color:white; font-size:14px; margin:0;">Canva • Figma • Adobe Illustrator • UI/UX basics</p>
-</div>
+<td width="33%" style="background-color:#ff8c00; padding:15px; border-radius:10px; text-align:center;">
+<h4 style="color:white;">🎨 Design Tools</h4>
+<p style="color:white; font-size:14px;">Canva • Figma • Adobe Illustrator • UI/UX basics</p>
+</td>
+</tr>
 
-<div style="background-color:rgba(255,255,255,0.1); padding:15px; border-radius:8px;">
-<p style="color:white; font-size:16px; margin:0 0 5px 0;">📋 <b>Project Planning</b></p>
-<p style="color:white; font-size:14px; margin:0;">Roadmapping • Task breakdown • Agile basics</p>
-</div>
+<tr>
+<td width="33%" style="background-color:#ff8c00; padding:15px; border-radius:10px; text-align:center;">
+<h4 style="color:white;">📋 Project Planning</h4>
+<p style="color:white; font-size:14px;">Roadmapping • Task breakdown • Agile basics</p>
+</td>
 
-<div style="background-color:rgba(255,255,255,0.1); padding:15px; border-radius:8px;">
-<p style="color:white; font-size:16px; margin:0 0 5px 0;">📈 <b>Digital Marketing</b></p>
-<p style="color:white; font-size:14px; margin:0;">Social media strategies • Content planning • SEO basics</p>
-</div>
+<td width="33%" style="background-color:#ff8c00; padding:15px; border-radius:10px; text-align:center;">
+<h4 style="color:white;">📈 Digital Marketing</h4>
+<p style="color:white; font-size:14px;">Social media strategies • Content planning • SEO basics</p>
+</td>
 
-<div style="background-color:rgba(255,255,255,0.1); padding:15px; border-radius:8px;">
-<p style="color:white; font-size:16px; margin:0 0 5px 0;">🤖 <b>Data Science Concepts</b></p>
-<p style="color:white; font-size:14px; margin:0;">ML fundamentals • Real-world applications • Learning path</p>
-</div>
+<td width="33%" style="background-color:#ff8c00; padding:15px; border-radius:10px; text-align:center;">
+<h4 style="color:white;">🤖 Data Science Concepts</h4>
+<p style="color:white; font-size:14px;">ML fundamentals • Real-world applications • Learning path</p>
+</td>
+</tr>
+</table>
 
-</div>
-</div>
+---
 
 ## 📫 Connect With Me
-<div style="background-color:#9370db; padding:20px; border-radius:10px; margin:20px 0; border-left:5px solid #7b68ee;">
-<div style="background-color:rgba(255,255,255,0.1); padding:15px; border-radius:8px;">
-<p style="color:white; font-size:16px; margin:8px 0;">✉️ <b>Email:</b> khosa9720@gmail.com</p>
-<p style="color:white; font-size:16px; margin:8px 0;">💼 <b>LinkedIn:</b> <a href="#" style="color:#ffcc00; text-decoration:none;">linkedin.com/in/ridamaryam</a></p>
-</div>
-</div>
 
-## ⚡ Quick Facts About Me
-<div style="background-color:#ff4500; padding:20px; border-radius:10px; margin:20px 0; border-left:5px solid #cc3700;">
-<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
-<span style="background-color:rgba(255,255,255,0.2); color:white; padding:8px 15px; border-radius:20px; font-size:14px;">🎨 Creative + Technical Mind</span>
-<span style="background-color:rgba(255,255,255,0.2); color:white; padding:8px 15px; border-radius:20px; font-size:14px;">🌱 Love Practical Learning</span>
-<span style="background-color:rgba(255,255,255,0.2); color:white; padding:8px 15px; border-radius:20px; font-size:14px;">🚀 Project-First Approach</span>
-<span style="background-color:rgba(255,255,255,0.2); color:white; padding:8px 15px; border-radius:20px; font-size:14px;">📚 Always Curious</span>
-<span style="background-color:rgba(255,255,255,0.2); color:white; padding:8px 15px; border-radius:20px; font-size:14px;">🤝 Team Player</span>
-</div>
-</div>
+<table>
+<tr>
+<td width="100%" style="background-color:#9370db; padding:20px; border-radius:10px; border-left:5px solid #7b68ee;">
+<p style="color:white; font-size:16px;">✉️ <b>Email:</b> khosa9720@gmail.com</p>
+<p style="color:white; font-size:16px;">💼 <b>LinkedIn:</b> <a href="YOUR_LINKEDIN_LINK_HERE" style="color:#ffcc00; text-decoration:none;">linkedin.com/in/ridamaryam</a></p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -121,7 +139,7 @@
 
 <h3>🌈 Let's Connect & Create 🌈</h3>
 <p style="margin:20px 0;">
-  <a href="https://linkedin.com/in/your-username" target="_blank" style="text-decoration:none;">
+  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -135,16 +153,20 @@
 <h3 align="center">🛠️ My Tech Toolkit 🛠️</h3>
 
 <div align="center" style="margin:30px 0;">
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
+<div style="display:inline-block;">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" title="C++">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="55" height="55" title="Dart">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="55" height="55" title="Flutter">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55" title="Java">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55" title="Python">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55" title="MySQL">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" title="Linux">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="55" height="55" title="Illustrator">
+| **Language/Tool** | **Skill Level** |
+|-------------------|-----------------|
+| Flutter & Dart    | Intermediate    |
+| C++               | Intermediate    |
+| Java              | Intermediate    |
+| Python            | Intermediate    |
+| MySQL             | Intermediate    |
+| Linux             | Intermediate    |
+| Adobe Illustrator | Intermediate    |
+| WordPress         | Beginner        |
+| Canva             | Proficient      |
+| Figma             | Learning        |
 
 </div>
 </div>
@@ -155,56 +177,60 @@
 
 <h2 style="color:white; margin-bottom:20px;">🚀 My Development Journey</h2>
 
-<div style="background-color:rgba(255,255,255,0.2); padding:20px; border-radius:15px; margin:15px 0;">
-
-<table style="width:100%; border-collapse:collapse;">
+<table width="100%">
 <tr>
-<td style="padding:15px; text-align:center; vertical-align:top;">
-<div style="background-color:#ff6b8b; padding:20px; border-radius:15px; height:100%;">
-<div style="font-size:40px; margin-bottom:15px;">📱</div>
-<h4 style="color:white; margin:0 0 15px 0; font-size:18px;">Mobile Development</h4>
-<p style="color:white; font-size:16px; margin:10px 0;">Flutter & Dart</p>
-<p style="color:white; font-size:16px; margin:10px 0;">Building Real Projects</p>
-<p style="color:white; font-size:16px; margin:10px 0;">Firebase Integration</p>
+<td width="25%" style="padding:10px; text-align:center; vertical-align:top;">
+<div style="background-color:#ff6b8b; padding:15px; border-radius:10px; height:100%;">
+<div style="font-size:30px; margin-bottom:10px;">📱</div>
+<h4 style="color:white; margin:0 0 10px 0;">Mobile Development</h4>
+<p style="color:white; font-size:14px; margin:5px 0;">Flutter & Dart</p>
+<p style="color:white; font-size:14px; margin:5px 0;">Building Real Projects</p>
+<p style="color:white; font-size:14px; margin:5px 0;">Firebase Integration</p>
 </div>
 </td>
 
-<td style="padding:15px; text-align:center; vertical-align:top;">
-<div style="background-color:#4776E6; padding:20px; border-radius:15px; height:100%;">
-<div style="font-size:40px; margin-bottom:15px;">🌐</div>
-<h4 style="color:white; margin:0 0 15px 0; font-size:18px;">Web Development</h4>
-<p style="color:white; font-size:16px; margin:10px 0;">Frontend Focus</p>
-<p style="color:white; font-size:16px; margin:10px 0;">WordPress</p>
-<p style="color:white; font-size:16px; margin:10px 0;">Backend Planning</p>
+<td width="25%" style="padding:10px; text-align:center; vertical-align:top;">
+<div style="background-color:#4776E6; padding:15px; border-radius:10px; height:100%;">
+<div style="font-size:30px; margin-bottom:10px;">🌐</div>
+<h4 style="color:white; margin:0 0 10px 0;">Web Development</h4>
+<p style="color:white; font-size:14px; margin:5px 0;">Frontend Focus</p>
+<p style="color:white; font-size:14px; margin:5px 0;">WordPress</p>
+<p style="color:white; font-size:14px; margin:5px 0;">Backend Planning</p>
 </div>
 </td>
 
-<td style="padding:15px; text-align:center; vertical-align:top;">
-<div style="background-color:#00B09B; padding:20px; border-radius:15px; height:100%;">
-<div style="font-size:40px; margin-bottom:15px;">🎨</div>
-<h4 style="color:white; margin:0 0 15px 0; font-size:18px;">Design & Marketing</h4>
-<p style="color:white; font-size:16px; margin:10px 0;">Canva • Figma • Illustrator</p>
-<p style="color:white; font-size:16px; margin:10px 0;">UI/UX Principles</p>
-<p style="color:white; font-size:16px; margin:10px 0;">Digital Marketing</p>
+<td width="25%" style="padding:10px; text-align:center; vertical-align:top;">
+<div style="background-color:#00B09B; padding:15px; border-radius:10px; height:100%;">
+<div style="font-size:30px; margin-bottom:10px;">🎨</div>
+<h4 style="color:white; margin:0 0 10px 0;">Design & Marketing</h4>
+<p style="color:white; font-size:14px; margin:5px 0;">Canva • Figma • Illustrator</p>
+<p style="color:white; font-size:14px; margin:5px 0;">UI/UX Principles</p>
+<p style="color:white; font-size:14px; margin:5px 0;">Digital Marketing</p>
 </div>
 </td>
 
-<td style="padding:15px; text-align:center; vertical-align:top;">
-<div style="background-color:#8A2387; padding:20px; border-radius:15px; height:100%;">
-<div style="font-size:40px; margin-bottom:15px;">🤖</div>
-<h4 style="color:white; margin:0 0 15px 0; font-size:18px;">Data Science</h4>
-<p style="color:white; font-size:16px; margin:10px 0;">ML Concepts</p>
-<p style="color:white; font-size:16px; margin:10px 0;">Real-world Applications</p>
-<p style="color:white; font-size:16px; margin:10px 0;">Learning Path</p>
+<td width="25%" style="padding:10px; text-align:center; vertical-align:top;">
+<div style="background-color:#8A2387; padding:15px; border-radius:10px; height:100%;">
+<div style="font-size:30px; margin-bottom:10px;">🤖</div>
+<h4 style="color:white; margin:0 0 10px 0;">Data Science</h4>
+<p style="color:white; font-size:14px; margin:5px 0;">ML Concepts</p>
+<p style="color:white; font-size:14px; margin:5px 0;">Real-world Applications</p>
+<p style="color:white; font-size:14px; margin:5px 0;">Learning Path</p>
 </div>
 </td>
 </tr>
 </table>
 
-</div>
-
-<p style="color:white; font-size:18px; margin-top:20px; font-style:italic;">
+<p style="color:white; font-size:16px; margin-top:20px; font-style:italic;">
 ✨ From Learning to Building • From Concepts to Creation ✨
 </p>
 
+</div>
+
+---
+
+<div align="center">
+<p style="color:#666; font-size:14px;">
+<b>🌟 Current Status:</b> Honest Learner • Practical Builder • Creative Problem Solver
+</p>
 </div>
